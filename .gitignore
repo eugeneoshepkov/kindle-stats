@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+data/processed/*.json
+public/processed/*.json
+data/exports/*.zip
+data/snapshots/
+# Amazon exports hold emails, IPs and device ids; never commit them
+*.zip
+.wrangler/
+*.tsbuildinfo

@@ -1,0 +1,8 @@
+name = "read-eone-work"
+compatibility_date = "2025-01-10"
+routes = [{ pattern = "read.eone.work", custom_domain = true }]
+
+# Only the public build may be deployed: `bun run deploy` runs `build:public` first,
+# which leaves dist/processed with nothing but the public copy of reading.json.
+[assets]
+directory = "./dist"

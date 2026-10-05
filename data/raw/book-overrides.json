@@ -1,0 +1,495 @@
+{
+  "byBookId": {
+    "asin:B08CC3P2D3": {
+      "title": "Short Stories in German for Intermediate Learners"
+    },
+    "doc:AA2VVCR34OY3XUVUVD3WZV54SMS4A6ES": {
+      "title": "Save Me from Myself"
+    },
+    "doc:UBUJMYZTSWKNIDA43J5O2ANTZSONURPC": {
+      "title": "Schachnovelle",
+      "authors": [
+        "Stefan Zweig"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/5548285-L.jpg"
+    },
+    "doc:QDPJRSGZNYQWER5RM3W3FJXZMES2GAAO": {
+      "title": "Как читать книги",
+      "authors": [
+        "Сергей Иннокентьевич Поварнин"
+      ],
+      "coverUrl": ""
+    },
+    "doc:PHYL2EHA5QOE5QXVRHUUVHEGCD3SRHQW": {
+      "title": "Понедельник начинается в субботу",
+      "authors": [
+        "Аркадий Стругацкий",
+        "Борис Стругацкий"
+      ]
+    },
+    "doc:58B746681F3947AE800A7937B496F5FE": {
+      "title": "Grokking Deep Learning",
+      "authors": [
+        "Andrew W. Trask"
+      ]
+    },
+    "doc:FBGF6ONDAXYYWNIGFMDXVPP2NOE5T4TZ": {
+      "title": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
+      "authors": [
+        "Kevin Mitnick"
+      ]
+    },
+    "doc:KYLA3RNI5E6LVGHXTU7OKEP6MPUNCSFH": {
+      "title": "The Courage to Be Disliked: How to Free Yourself, Change Your Life, and Achieve Real Happiness",
+      "authors": [
+        "Ichiro Kishimi",
+        "Fumitake Koga"
+      ]
+    },
+    "doc:VKVME6YJPV4GUXLLNXCBM3LEG23PY4CX": {
+      "title": "Marina",
+      "authors": [
+        "Carlos Ruiz Zafón"
+      ]
+    },
+    "doc:RHPZFTIYT5JYI6ELUUOYSJFALDBSGWGB": {
+      "title": "Капитал. Как сколотить капитал, как его не потерять и почему нам его так не хватает",
+      "authors": [
+        "Алексей Викторович Марков"
+      ]
+    },
+    "doc:ZVJKF3Z2JHYN5ZEJNDL7ZRBRHX5BAB7K": {
+      "title": "Выбор. О свободе и внутренней силе человека",
+      "authors": [
+        "Эсме Швалль-Вейганд"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/14814936-L.jpg"
+    },
+    "doc:QRHHWPSPOFGSHVWMY5OZYPIU3P3EJI56": {
+      "title": "Жлобология 2.1. Откуда берутся деньги и почему не у меня?",
+      "authors": [
+        "Алексей Викторович Марков"
+      ]
+    },
+    "doc:7OJB52ZQGCKB2D6BH7Q7YUC3OAUSCHRH": {
+      "title": "Лягушка, слон и брокколи. Как жить и как не надо",
+      "authors": [
+        "Алексей Викторович Марков"
+      ]
+    },
+    "doc:GX56XTCZTW5JPAUFJV3EWSDJUAP74BT4": {
+      "title": "Король и Шут. Между Купчино и Ржевкой...",
+      "authors": [
+        "Александр «Балу» Балунов"
+      ]
+    },
+    "doc:ZFL7T65ZJFDPQXEKCXJLH7VV23EYHOBU": {
+      "title": "Пост",
+      "authors": [
+        "Дмитрий Глуховский"
+      ],
+      "coverUrl": ""
+    },
+    "asin:B01NAKSWW1": {
+      "sameAs": "doc:JTCKJGSKC3QVH6FW6DAPDWRPTC6NADZ7"
+    },
+    "doc:6YMMPFULXRFNGTEWRYQGLD3ILUE2BVR6": {
+      "sameAs": "doc:ZKODD45QPJTWZBLBY6DIBKO3IVVTDHYL"
+    },
+    "doc:17687BDD5BC74EA8BEA420F387840845": {
+      "sameAs": "doc:NXZ222LQGORSSOK3HTCCHXRUJHSJBVYX"
+    },
+    "doc:8D45B965AA424A2991AC76B4C73C2835": {
+      "sameAs": "doc:NXZ222LQGORSSOK3HTCCHXRUJHSJBVYX"
+    },
+    "doc:2LUSXZCMIBL2W63RTVFQC4W5D2OQ7DZE": {
+      "sameAs": "doc:5ESS4ORYC2VVEHB6RTP6CTQCQYH3S5J5"
+    },
+    "doc:4XM7UQ3PLWS6EBAEQFW5UUVD67BXIGCH": {
+      "sameAs": "doc:SH4OGH6MJ4SSZW6V26WXN2XAWRD3FDLA"
+    },
+    "doc:RRLAJW6Q4SD4MRQ3IRYO62RKGXXAYIGI": {
+      "sameAs": "asin:B097SN8NHF"
+    },
+    "doc:VJVFZTMPBUU3SWEUXE6S6LNURT2L5KZG": {
+      "sameAs": "doc:7VOTHA4QIPKJM4MM5XEMZQTS3I4IU4MF"
+    },
+    "doc:4ILTKARQNZXPWFZO3UVZKFV7DMHFKIG3": {
+      "sameAs": "doc:7VOTHA4QIPKJM4MM5XEMZQTS3I4IU4MF"
+    },
+    "doc:7ENUHEWE4F3QFOGS6FD72XNTPIDTZKHP": {
+      "sameAs": "doc:HAMTHD7TQYCU5SZUTQRQSSHMVI2EPTVE"
+    },
+    "doc:5UVBJ55J53VO6RWPGHZRP3GFBM5I3DWE": {
+      "sameAs": "doc:EQSRNKP3OD362STRKHD5EGVO2UABDLAF"
+    },
+    "doc:6U75MZCWEZTN5ZFI7USJGCREZ4ADNWPA": {
+      "sameAs": "asin:B08H5V1G9Z"
+    },
+    "asin:B0CMM6VGXN": {
+      "sameAs": "doc:2HICXDBBO62G4S6MLDUMUTUS2XFBMCDM"
+    },
+    "doc:ADXUOPIX4MCPHS5TGMMNK2GKLC34JE5N": {
+      "sameAs": "doc:BIXSO346F6RTVUBOTZLQKZNM4MEDHADX"
+    },
+    "doc:MSKBJQMJCUDT3JJJFNLHMP5SXVUIAXOW": {
+      "sameAs": "doc:OTFG6LLPGIXV66NY6CEJQFQSYCTKOXGH"
+    },
+    "doc:N34ZOENEYBQRY72VOHX7L52IYI67IIZZ": {
+      "exclude": true
+    },
+    "asin:B097SN8NHF": {
+      "authors": [
+        "Angus Robertson"
+      ]
+    },
+    "doc:NXZ222LQGORSSOK3HTCCHXRUJHSJBVYX": {
+      "title": "Hiroshima Nagasaki: The Real Story of the Atomic Bombings and Their Aftermath"
+    },
+    "doc:2HICXDBBO62G4S6MLDUMUTUS2XFBMCDM": {
+      "title": "I Will Show You How It Was: The Story of Wartime Kyiv"
+    },
+    "doc:BIXSO346F6RTVUBOTZLQKZNM4MEDHADX": {
+      "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life"
+    },
+    "doc:KGHDGN5UC5MB6X7TSX3MSDSOONYRYUIN": {
+      "title": "The Courage to Be Happy: True Contentment Is Within Your Power",
+      "authors": [
+        "Ichiro Kishimi",
+        "Fumitake Koga"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9255906-L.jpg"
+    },
+    "doc:DOL3JHWYMDMWCLJ7C4DU77NABYYOYIEZ": {
+      "title": "The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future"
+    },
+    "doc:ZF27QWJBKMIUGFPQSCCL6BTIIRS3LGGK": {
+      "title": "Why We Die: The New Science of Aging and the Quest for Immortality"
+    },
+    "doc:RJBVQQUMAD6WV2Z4P4P3K2MGND27YCXQ": {
+      "title": "Can't Hurt Me: Master Your Mind and Defy the Odds"
+    },
+    "doc:XM73EM46ENH4HM6SPWKIUPQMKSTIWFFG": {
+      "title": "With My Eyes Wide Open: Miracles and Mistakes on My Way Back to KoRn"
+    },
+    "doc:HZGMNCMZNQZEJJ5NXOLVJ3SB2ADJMO6D": {
+      "title": "Im Westen nichts Neues"
+    },
+    "doc:S2S73EPIJOXGZCD3J6IJX7F45EY4V5GS": {
+      "title": "Minecraft: The Unlikely Tale of Markus \"Notch\" Persson and the Game That Changed Everything"
+    },
+    "asin:B08CB5763M": {
+      "title": "Billion Dollar Loser: The Epic Rise and Fall of WeWork"
+    },
+    "asin:B0791HV5M2": {
+      "title": "Short Stories in German for Beginners"
+    },
+    "doc:WYWDHGZ5ZI4XAGVY6YBAH56PAEHSU7OI": {
+      "title": "Колымские рассказы",
+      "authors": [
+        "Варлам Шаламов"
+      ]
+    },
+    "doc:TBPXA2KDYEN3PLNQHQERF3RJS4D5IBUP": {
+      "title": "Bis zur letzten Stunde: Hitlers Sekretärin erzählt ihr Leben",
+      "authors": [
+        "Traudl Junge"
+      ]
+    },
+    "doc:IA3IKNZU6VJI663RPKBGP5SAHHCCXXZ6": {
+      "title": "Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs",
+      "authors": [
+        "James Stanier"
+      ]
+    },
+    "doc:DECXIITQIKP7TWNL5NN4US3PEKMM6CT2": {
+      "title": "Dune",
+      "authors": [
+        "Frank Herbert"
+      ]
+    },
+    "doc:M3EUPUSBJINVBZMVMF5GG66IEVKISXT4": {
+      "title": "Не убоюсь зла",
+      "authors": [
+        "Натан Щаранский"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/7085204-L.jpg"
+    },
+    "doc:QAVYNYHGMBVX4HI3QLDS7IRP3ZEQSDVI": {
+      "title": "Strange Case of Dr Jekyll and Mr Hyde",
+      "authors": [
+        "Robert Louis Stevenson"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/295773-L.jpg"
+    },
+    "doc:46ESDA6CZDYYUNV6RUNPNCSQB4RR64PW": {
+      "title": "Важные годы. Почему не стоит откладывать жизнь на потом",
+      "authors": [
+        "Мэг Джей"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/12132013-L.jpg"
+    },
+    "doc:VQDXHRSVEE26KA7YVJKOWIWVIXM3K7RX": {
+      "title": "Комплексное ПТСР: руководство по восстановлению от детской травмы",
+      "authors": [
+        "Пит Уокер"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/9319615-L.jpg"
+    },
+    "doc:6L42GDQFLBO6SPRHFD2CKVP5UFAEZNAN": {
+      "title": "How Countries Go Broke: The Big Cycle",
+      "authors": [
+        "Ray Dalio"
+      ]
+    },
+    "doc:VHU2QQJHMTWS3MNKQM5FEINYAY3YG2SL": {
+      "title": "I've Made $3M With My 36 Startups",
+      "authors": [
+        "Marc Lou"
+      ]
+    },
+    "doc:M3L2YHWYLLBQ7XII2X3LY5HAHEPTUPXG": {
+      "title": "Речь о миллионах",
+      "authors": [
+        "Дмитрий Никитенко"
+      ]
+    },
+    "doc:4W3H54JK3WPP2AUPHPJE3B4YPDG7G56F": {
+      "title": "Волчье время. Германия и немцы: 1945–1955",
+      "authors": [
+        "Харальд Йенер"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/id/10124988-L.jpg"
+    },
+    "doc:5DCXBIRZUIFXHWFTV4N2H6SAA6DM5MRC": {
+      "title": "Три года в аду. Как Светлана Богачева украла мою жизнь",
+      "authors": [
+        "Таня Щукина"
+      ]
+    },
+    "asin:B0GFXKWVBK": {
+      "authors": [
+        "Eric Jorgenson"
+      ]
+    },
+    "asin:B079XZFPKR": {
+      "authors": [
+        "Tom Wright",
+        "Bradley Hope"
+      ]
+    },
+    "doc:SOCVQO7254FDKTEIEOHO2XETXAK2AVJQ": {
+      "title": "Тоннель",
+      "authors": [
+        "Яна Вагнер"
+      ],
+      "coverUrl": ""
+    },
+    "doc:COJBFFMTDZRDWJFVB7ZP36XCFIENT4VG": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/490106-L.jpg"
+    },
+    "doc:56MNU654EYFBQ32GK3ERIJ6YISAUGGNT": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/10524294-L.jpg"
+    },
+    "doc:OQ4AKVXWHBDBMANL67WP4Q4QGZOQ2EJF": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/9054419-L.jpg"
+    },
+    "doc:I7QXHRHI36KDZDOHMBJYE4UDZ2EZV35X": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/8231990-L.jpg"
+    },
+    "doc:6V2NSPRBWQVNGWLAFEZM2XCE7GFIMMBH": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/11545750-L.jpg"
+    },
+    "doc:BEEQHKALYYYY5EUO3H5R3THEZ6JVSPIN": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/8281189-L.jpg"
+    },
+    "doc:WXDUUX65VETWI7KCW3E7D6U3O5DGJ3R6": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/524560-L.jpg"
+    },
+    "doc:VHQL5CXQQ2D35XBCMX42ZAQU5E5IFOCG": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/443668-L.jpg"
+    },
+    "doc:FRYYBY7AIDOULZ62ULPPS6GZRJ7ES7DW": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/14798575-L.jpg"
+    },
+    "doc:3DGVUWFFTRQFJR47ZKWKI7U3OITJ5OV4": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/852840-L.jpg"
+    },
+    "doc:AV526WMFU3IN7HSM65JV7PJC2WU22NN3": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/7666646-L.jpg"
+    },
+    "doc:4WPHYB7DH47YG3AWPYZC2HW2VGOVTPSQ": {
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780807014271-L.jpg?default=false"
+    },
+    "doc:28A9C4788DD3485FAA2336ECC93C995B": {
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9781442250581-L.jpg?default=false"
+    },
+    "asin:B00DWG8F6A": {
+      "coverUrl": "https://m.media-amazon.com/images/P/B00DWG8F6A.01._SCLZZZZZZZ_.jpg"
+    },
+    "asin:B08H5V1G9Z": {
+      "coverUrl": "https://m.media-amazon.com/images/P/B08H5V1G9Z.01._SCLZZZZZZZ_.jpg"
+    },
+    "doc:XSPGOAF5EN4KJNU2YRMKXDXBCWWUKD26": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/10326965-L.jpg"
+    },
+    "doc:GZLWZDT3SITIVW2QVJU64DLLFR5M46BI": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/8814155-L.jpg"
+    },
+    "doc:YX7PTIRBRY4NG5L724UTZYEM4DVI2IAT": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/863960-L.jpg"
+    },
+    "doc:ZKODD45QPJTWZBLBY6DIBKO3IVVTDHYL": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/11757830-L.jpg",
+      "exclude": true
+    },
+    "doc:LAIVMXJL3G2H7HOU3XJDA72BWM3KMN5Z": {
+      "coverUrl": "https://covers.openlibrary.org/b/id/431011-L.jpg"
+    },
+    "doc:EQSRNKP3OD362STRKHD5EGVO2UABDLAF": {
+      "coverUrl": ""
+    },
+    "doc:8E966145C71E48A2A9A242F53C074F17": {
+      "coverUrl": ""
+    },
+    "asin:B00TXYJOZG": {
+      "coverUrl": ""
+    },
+    "doc:Y3GB27CQOUK4UOFCYD4L6BSQUBD6HSIN": {
+      "coverUrl": ""
+    },
+    "doc:7QNZQTFKQVME5QFSXSBHL5HYXNSEMZ6V": {
+      "coverUrl": ""
+    },
+    "doc:PF7LXGENAWW7XIP4QDYYNJGH5FBDA55C": {
+      "coverUrl": ""
+    },
+    "doc:96083D90A34345EBB6B8CFF3B60EFD76": {
+      "coverUrl": ""
+    },
+    "doc:YRGRE524UKFHKBSEKVRIK5CMRPBII3IV": {
+      "coverUrl": "",
+      "title": "Кадавры",
+      "authors": [
+        "Алексей Поляринов"
+      ]
+    },
+    "doc:LSM46LD7NEPPA7GCBJCTOMEFIT7PZ4PU": {
+      "coverUrl": "",
+      "title": "Мусорный прибой",
+      "authors": [
+        "Чэнь Цюфань"
+      ]
+    },
+    "doc:IBGAZGC6G2HRDBUBWIBFUFR6IVJ72XCI": {
+      "coverUrl": "",
+      "title": "Быть собой. Новая теория сознания",
+      "authors": [
+        "Анил Сет"
+      ]
+    },
+    "doc:A8355432CA8441ED8C2F794529AE8981": {
+      "coverUrl": "",
+      "title": "Super Agers: An Evidence-Based Approach to Longevity",
+      "authors": [
+        "Eric Topol"
+      ]
+    },
+    "doc:CTZEMQWEJOSNUAQOOUJBO2IQ5JNVMK4F": {
+      "coverUrl": ""
+    },
+    "doc:7MWSOZCJX52EKBY4SMPGBWEU2M37BP6N": {
+      "coverUrl": ""
+    },
+    "doc:RY46NANCMFFJI2MTRXMV6ESYGV2UHAQW": {
+      "coverUrl": ""
+    },
+    "doc:LE43AOYKAYBYR2TH2XO5POCXTGRY7VXR": {
+      "coverUrl": "",
+      "title": "She Comes First: The Thinking Man's Guide to Pleasuring a Woman"
+    },
+    "doc:OTFG6LLPGIXV66NY6CEJQFQSYCTKOXGH": {
+      "coverUrl": ""
+    },
+    "doc:K4YXTD4IQVSAX2IBZLNH6Z6XIP2L2RRJ": {
+      "coverUrl": ""
+    },
+    "doc:THL65RURVQNWZT4NXKMXZFL4TIAGHHPU": {
+      "coverUrl": ""
+    },
+    "doc:IGD5X3GYKWR5OXSSNM3YWKEZ5PXXXMTM": {
+      "coverUrl": ""
+    },
+    "doc:HFRHA3DY2E6P2EYW7UJIIZ67FSNCHCSA": {
+      "sameAs": "doc:2K4PDPU2EVJQV6DNN435X237FL3W27ZY"
+    },
+    "doc:ZWWB5VDYRLGGLEB6EKMDIDE7BCR5DWPN": {
+      "sameAs": "doc:B003KVKYAM"
+    },
+    "title:untitled": {
+      "listed": false
+    },
+    "doc:XZNITXVRXY54TZMBYLYNHUW7F7XEFDMS": {
+      "listed": false
+    },
+    "doc:2K4PDPU2EVJQV6DNN435X237FL3W27ZY": {
+      "title": "Чернобыльская молитва",
+      "authors": [
+        "Светлана Алексиевич"
+      ]
+    },
+    "doc:B003KVKYAM": {
+      "title": "The Design of Everyday Things",
+      "authors": [
+        "Don Norman"
+      ],
+      "coverUrl": "https://m.media-amazon.com/images/P/B003KVKYAM.01._SCLZZZZZZZ_.jpg"
+    },
+    "doc:MUDIJQKTEXAMGEBDHEXSXZ6LH7P7B7E6": {
+      "title": "The Lord of the Rings"
+    },
+    "doc:H2JCL4SL2ETPNASIMAEBPYH7GTN2O4TL": {
+      "title": "Staff Engineer: Leadership Beyond the Management Track",
+      "authors": [
+        "Will Larson"
+      ]
+    },
+    "doc:BBBK6QH6MIW5J6BUXBWNRD7DODVLRWMO": {
+      "title": "White Nights",
+      "authors": [
+        "Fyodor Dostoevsky"
+      ]
+    },
+    "doc:XSOWY6RT7W4RUSFG2HIYOF4L2DDFRCGB": {
+      "title": "The Creative Act: A Way of Being",
+      "authors": [
+        "Rick Rubin"
+      ]
+    },
+    "doc:YGG7SKZ56HAKD6VJGABO7YJZGI27UW7T": {
+      "title": "Discourses",
+      "authors": [
+        "Epictetus"
+      ]
+    },
+    "doc:AP75YIHSVU5JGX7PSKPSSR3ZND7ICF2X": {
+      "title": "How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life"
+    },
+    "doc:WIHQDAUBWFT2OMP75JMLNFSJ47HEEC7X": {
+      "title": "Тут недалеко",
+      "authors": [
+        "Кира Ярмыш"
+      ],
+      "coverUrl": ""
+    },
+    "doc:B7T46LU5WPFG43VCBBXQZLM5F6DHVKXK": {
+      "finished": false
+    },
+    "doc:US7GZG74XAG4HIHPBY3B4MWCVVN26FGX": {
+      "exclude": true
+    },
+    "doc:52117C30616C4B14A903A48823C696B3": {
+      "exclude": true
+    }
+  }
+}
